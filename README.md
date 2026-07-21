@@ -99,7 +99,7 @@ flask-calculator/
 ## 📸 Preview
 
 
-  https://github.com/pratikshapawar1525/Flask-Calculator-Web-Application/blob/main/Calculator%20img.png
+  ![Calculator ](Calculator%20img.png)
 
 ### Calculator Interface
 
